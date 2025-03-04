@@ -1,0 +1,29 @@
+{
+  "user_created": "User created successfully.",
+  "invalid_email_format": "Invalid email format.",
+  "user_exists": "User already exists.",
+  "user_creation_failed": "Failed to create user.",
+  "user_list_found": "User list retrieved successfully.",
+  "user_list_not_found": "User list not found.",
+  "user_found": "User retrieved successfully.",
+  "user_not_found": "User not found.",
+  "user_updated": "User updated successfully.",
+  "user_update_failed": "Failed to update user.",
+  "user_deleted": "User deleted successfully.",
+  "user_delete_failed": "Failed to delete user.",
+
+  "user_login": "User logged in successfully.",
+  "invalid_credentials": "Invalid credentials.",
+
+  "knowledge_base_created": "Knowledge base created successfully.",
+  "knowledge_base_creation_failed": "Failed to create knowledge base.",
+  "questions_answered": "Questions Successfully Answered",
+  "questions_not_answered": "Questions Could Not Be Answered",
+  "knowledge_base_list_found": "Knowledge base list retrieved successfully.",
+  "knowledge_base_list_not_found": "Knowledge base list not found.",
+  "all_knowledge_bases_deleted": "All knowledge bases deleted successfully.",
+  "knowledge_base_deleted": "Knowledge base deleted successfully.",
+  "knowledge_base_not_found": "Knowledge base not found.",
+  "document_uuid_not_found": "Document UUID not found.",
+  "knowledge_base_delete_failed": "Failed to delete knowledge base."
+}
