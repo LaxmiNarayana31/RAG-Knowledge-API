@@ -1,20 +1,4 @@
 {
-  "user_created": "User created successfully.",
-  "invalid_email_format": "Invalid email format.",
-  "user_exists": "User already exists.",
-  "user_creation_failed": "Failed to create user.",
-  "user_list_found": "User list retrieved successfully.",
-  "user_list_not_found": "User list not found.",
-  "user_found": "User retrieved successfully.",
-  "user_not_found": "User not found.",
-  "user_updated": "User updated successfully.",
-  "user_update_failed": "Failed to update user.",
-  "user_deleted": "User deleted successfully.",
-  "user_delete_failed": "Failed to delete user.",
-
-  "user_login": "User logged in successfully.",
-  "invalid_credentials": "Invalid credentials.",
-
   "knowledge_base_created": "Knowledge base created successfully.",
   "knowledge_base_creation_failed": "Failed to create knowledge base.",
   "questions_answered": "Questions Successfully Answered",
