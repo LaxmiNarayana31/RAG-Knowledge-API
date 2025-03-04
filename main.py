@@ -27,7 +27,7 @@ Base.metadata.create_all(bind=engine)
 
 @app.get("/")
 def welcome():
-    return "Welcome to Agents AI Service"
+    return "Welcome to  RAG-Knowledge-API Service"
 
 app.include_router(knowledge_base_route.router)
 
